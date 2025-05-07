@@ -11,10 +11,15 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+
+
+
+// TESTTT GIT
+
 public class MainActivity extends AppCompatActivity {
 
     EditText ETEmail, ETPassword;
-    Button login;
+    Button loginnn;
     SqliteHelper sqliteHelper;
 
     @Override
